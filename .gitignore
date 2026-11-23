@@ -1,0 +1,9 @@
+# Signing — never commit your keystore or its passwords
+*.keystore
+keystore-info.txt
+
+# Build output
+build/
+*.apk
+*.aab
+*.idsig
